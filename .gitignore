@@ -1,0 +1,7 @@
+**/chainstate/
+**/index/
+
+*.log
+*.lock
+
+peers.dat
